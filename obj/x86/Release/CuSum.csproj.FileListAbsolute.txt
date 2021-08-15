@@ -1,0 +1,16 @@
+C:\Users\test\source\repos\CuSum Analysis\bin\Release\WindowsApplication.exe.config
+C:\Users\test\source\repos\CuSum Analysis\bin\Release\WindowsApplication.exe
+C:\Users\test\source\repos\CuSum Analysis\bin\Release\WindowsApplication.pdb
+C:\Users\test\source\repos\CuSum Analysis\obj\x86\Release\CuSum.csproj.ResolveComReference.cache
+C:\Users\test\source\repos\CuSum Analysis\obj\x86\Release\CuSum_Analysis.CuSumAnalysisGUI.resources
+C:\Users\test\source\repos\CuSum Analysis\obj\x86\Release\CuSum_Analysis.FrmAllChart.resources
+C:\Users\test\source\repos\CuSum Analysis\obj\x86\Release\CuSum_Analysis.FrmChart.resources
+C:\Users\test\source\repos\CuSum Analysis\obj\x86\Release\CuSum_Analysis.FrmSheetSelection.resources
+C:\Users\test\source\repos\CuSum Analysis\obj\x86\Release\CuSum_Analysis.IPForm.resources
+C:\Users\test\source\repos\CuSum Analysis\obj\x86\Release\CuSum_Analysis.ProgressFrm.resources
+C:\Users\test\source\repos\CuSum Analysis\obj\x86\Release\CuSum.Properties.Resources.resources
+C:\Users\test\source\repos\CuSum Analysis\obj\x86\Release\CuSum.csproj.GenerateResource.cache
+C:\Users\test\source\repos\CuSum Analysis\obj\x86\Release\CuSum.csproj.CoreCompileInputs.cache
+C:\Users\test\source\repos\CuSum Analysis\obj\x86\Release\WindowsApplication.exe
+C:\Users\test\source\repos\CuSum Analysis\obj\x86\Release\WindowsApplication.pdb
+C:\Users\test\source\repos\CuSum Analysis\obj\x86\Release\CuSum.csprojAssemblyReference.cache

@@ -1,0 +1,8 @@
+6660053
+1320749
+Subclvian Vein Catheterization
+Skill B
+0.25
+0.10
+0.05
+0.10

@@ -1,0 +1,40 @@
+C:\Users\test\source\repos\Cusum\CuSum Analysis\bin\Debug\CuSum Analysis.exe.config
+C:\Users\test\source\repos\Cusum\CuSum Analysis\bin\Debug\CuSum Analysis.exe.manifest
+C:\Users\test\source\repos\Cusum\CuSum Analysis\bin\Debug\CuSum Analysis.application
+C:\Users\test\source\repos\Cusum\CuSum Analysis\bin\Debug\CuSum Analysis.exe
+C:\Users\test\source\repos\Cusum\CuSum Analysis\bin\Debug\CuSum Analysis.pdb
+C:\Users\test\source\repos\Cusum\CuSum Analysis\obj\Debug\CuSum Analysis.csproj.ResolveComReference.cache
+C:\Users\test\source\repos\Cusum\CuSum Analysis\obj\Debug\CuSum_Analysis.CuSumAnalysisGUI.resources
+C:\Users\test\source\repos\Cusum\CuSum Analysis\obj\Debug\CuSum_Analysis.FrmAllChart.resources
+C:\Users\test\source\repos\Cusum\CuSum Analysis\obj\Debug\CuSum_Analysis.FrmChart.resources
+C:\Users\test\source\repos\Cusum\CuSum Analysis\obj\Debug\CuSum_Analysis.FrmSheetSelection.resources
+C:\Users\test\source\repos\Cusum\CuSum Analysis\obj\Debug\CuSum_Analysis.IPForm.resources
+C:\Users\test\source\repos\Cusum\CuSum Analysis\obj\Debug\CuSum_Analysis.ProgressFrm.resources
+C:\Users\test\source\repos\Cusum\CuSum Analysis\obj\Debug\CuSum_Analysis.Properties.Resources.resources
+C:\Users\test\source\repos\Cusum\CuSum Analysis\obj\Debug\CuSum Analysis.csproj.GenerateResource.cache
+C:\Users\test\source\repos\Cusum\CuSum Analysis\obj\Debug\CuSum Analysis.csproj.CoreCompileInputs.cache
+C:\Users\test\source\repos\Cusum\CuSum Analysis\obj\Debug\CuSum Analysis.exe.manifest
+C:\Users\test\source\repos\Cusum\CuSum Analysis\obj\Debug\CuSum Analysis.application
+C:\Users\test\source\repos\Cusum\CuSum Analysis\obj\Debug\CuSum Analysis.exe
+C:\Users\test\source\repos\Cusum\CuSum Analysis\obj\Debug\CuSum Analysis.pdb
+C:\Users\test\source\repos\Cusum\CuSum Analysis\obj\Debug\CuSum Analysis.csprojAssemblyReference.cache
+C:\Users\test\source\repos\eLog\CuSum Analysis\bin\Debug\CuSum Analysis.exe.config
+C:\Users\test\source\repos\eLog\CuSum Analysis\bin\Debug\CuSum Analysis.exe.manifest
+C:\Users\test\source\repos\eLog\CuSum Analysis\bin\Debug\CuSum Analysis.application
+C:\Users\test\source\repos\eLog\CuSum Analysis\bin\Debug\CuSum Analysis.exe
+C:\Users\test\source\repos\eLog\CuSum Analysis\bin\Debug\CuSum Analysis.pdb
+C:\Users\test\source\repos\eLog\CuSum Analysis\obj\Debug\CuSum Analysis.csprojAssemblyReference.cache
+C:\Users\test\source\repos\eLog\CuSum Analysis\obj\Debug\CuSum Analysis.csproj.ResolveComReference.cache
+C:\Users\test\source\repos\eLog\CuSum Analysis\obj\Debug\CuSum_Analysis.CuSumAnalysisGUI.resources
+C:\Users\test\source\repos\eLog\CuSum Analysis\obj\Debug\CuSum_Analysis.FrmAllChart.resources
+C:\Users\test\source\repos\eLog\CuSum Analysis\obj\Debug\CuSum_Analysis.FrmChart.resources
+C:\Users\test\source\repos\eLog\CuSum Analysis\obj\Debug\CuSum_Analysis.FrmSheetSelection.resources
+C:\Users\test\source\repos\eLog\CuSum Analysis\obj\Debug\CuSum_Analysis.IPForm.resources
+C:\Users\test\source\repos\eLog\CuSum Analysis\obj\Debug\CuSum_Analysis.ProgressFrm.resources
+C:\Users\test\source\repos\eLog\CuSum Analysis\obj\Debug\CuSum_Analysis.Properties.Resources.resources
+C:\Users\test\source\repos\eLog\CuSum Analysis\obj\Debug\CuSum Analysis.csproj.GenerateResource.cache
+C:\Users\test\source\repos\eLog\CuSum Analysis\obj\Debug\CuSum Analysis.csproj.CoreCompileInputs.cache
+C:\Users\test\source\repos\eLog\CuSum Analysis\obj\Debug\CuSum Analysis.exe.manifest
+C:\Users\test\source\repos\eLog\CuSum Analysis\obj\Debug\CuSum Analysis.application
+C:\Users\test\source\repos\eLog\CuSum Analysis\obj\Debug\CuSum Analysis.exe
+C:\Users\test\source\repos\eLog\CuSum Analysis\obj\Debug\CuSum Analysis.pdb

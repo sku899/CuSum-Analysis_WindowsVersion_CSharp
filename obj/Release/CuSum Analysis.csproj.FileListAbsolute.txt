@@ -1,0 +1,18 @@
+C:\Users\test\source\repos\Cusum\CuSum Analysis\bin\Release\CuSum Analysis.exe.config
+C:\Users\test\source\repos\Cusum\CuSum Analysis\bin\Release\CuSum Analysis.exe.manifest
+C:\Users\test\source\repos\Cusum\CuSum Analysis\bin\Release\CuSum Analysis.application
+C:\Users\test\source\repos\Cusum\CuSum Analysis\bin\Release\CuSum Analysis.exe
+C:\Users\test\source\repos\Cusum\CuSum Analysis\bin\Release\CuSum Analysis.pdb
+C:\Users\test\source\repos\Cusum\CuSum Analysis\obj\Release\CuSum Analysis.csprojAssemblyReference.cache
+C:\Users\test\source\repos\Cusum\CuSum Analysis\obj\Release\CuSum Analysis.csproj.ResolveComReference.cache
+C:\Users\test\source\repos\Cusum\CuSum Analysis\obj\Release\CuSum_Analysis.CuSumAnalysisGUI.resources
+C:\Users\test\source\repos\Cusum\CuSum Analysis\obj\Release\CuSum_Analysis.FrmChart.resources
+C:\Users\test\source\repos\Cusum\CuSum Analysis\obj\Release\CuSum_Analysis.IPForm.resources
+C:\Users\test\source\repos\Cusum\CuSum Analysis\obj\Release\CuSum_Analysis.ProgressFrm.resources
+C:\Users\test\source\repos\Cusum\CuSum Analysis\obj\Release\CuSum_Analysis.Properties.Resources.resources
+C:\Users\test\source\repos\Cusum\CuSum Analysis\obj\Release\CuSum Analysis.csproj.GenerateResource.cache
+C:\Users\test\source\repos\Cusum\CuSum Analysis\obj\Release\CuSum Analysis.csproj.CoreCompileInputs.cache
+C:\Users\test\source\repos\Cusum\CuSum Analysis\obj\Release\CuSum Analysis.exe.manifest
+C:\Users\test\source\repos\Cusum\CuSum Analysis\obj\Release\CuSum Analysis.application
+C:\Users\test\source\repos\Cusum\CuSum Analysis\obj\Release\CuSum Analysis.exe
+C:\Users\test\source\repos\Cusum\CuSum Analysis\obj\Release\CuSum Analysis.pdb
