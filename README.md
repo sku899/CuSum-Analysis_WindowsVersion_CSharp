@@ -1,6 +1,7 @@
-# CuSum-Analysis_WindowsVersion_CSharp #
+# CuSum-Analysis WindowsVersion CSharp #
 ## Contributor: Sabina Ku
 
+### This CuSum-Analysis is for Surgeon’s Skills Assessment to evaluate surgical performance
 ### Instruction of CUSUM application
 CUSUM Application (CUSUM APP) contains three tabs – ‘Personal’, ‘Training’ and ‘CUSUM’. Their screenshots and functions will be presented and described as the following,
 1.	Personal tab: When CUSUM APP starts, ‘Personal’ tab is the starting up screen as shown in figure 1. The other two tabs are disabled and will be enabled after user sign in. 
